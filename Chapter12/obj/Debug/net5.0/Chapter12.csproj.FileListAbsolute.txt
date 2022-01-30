@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.exe
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.deps.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.runtimeconfig.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.runtimeconfig.dev.json
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\ref\Chapter12.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\bin\Debug\net5.0\Chapter12.pdb
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.AssemblyInfo.cs
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\ref\Chapter12.dll
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.pdb
+C:\Users\USER\Desktop\SolelyAssignments\Chapter12\obj\Debug\net5.0\Chapter12.genruntimeconfig.cache

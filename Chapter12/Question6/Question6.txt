@@ -1,0 +1,7 @@
+Advantages of exceptions;
+
+1. Dinstingushing Error-Handling Code from "Regular" Code due to the maintenance: Exceptions proovide the means to separate the details of what to do when something extraordinary happens from themain logic and contention of the code.
+
+2. Promoting Errors in the Call Stack:The ability to propagate error reporting up the call stack of the methods is another known advantage of exception handling.
+
+3. Making the necessary distinctions and types of Errors: Because all exceptions thrown within a program are objects, the grouping or categorizing of exceptiuons is a natural outcome of the class hierarchy.
